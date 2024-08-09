@@ -1,33 +1,36 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Sr Software Engineer",
+            "subtitle": "Aahana Electromation | Rajkot",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "14-Mar-2024 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Sr Software Engineer",
+            "subtitle": "Simprosys Infomedia | Ahemdabad",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "01-MAY-2019 – 29-FEB-2024"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "PHP Developer",
+            "subtitle": "Productive Creation india Pvt Ltd | Ahemdabad",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "01-AUG-2018 – 30-APRIL-2019"
+        },
+        {
+            "title": "PHP Developer",
+            "subtitle": "Prognostic Infotech | Rajkot",
+            "workType": "Full-time",
+            "workDescription": [
+            ],
+            "dateText": "01-JAN-2018 – 10-JULY-2018"
         }
     ]
 }

@@ -1,17 +1,17 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/naushad-portfolio-poster.png",
+            "title": "Naushad Portfolio",
+            "bodyText": "- Showcased projects, achievements, education,\n about me, and skills in the portfolio to.\n -effectively communicate my strengths and\n accomplishments.\n - Enhanced the portfolio website with modern\n features, including support for dark mode, to\n stay up-to-date with industry trends.\n - Utilized React.js, React-Hooks, React-Routing,\n and Bootstrap to create a responsive website.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/naushad1441/naushad-portfolio"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "http://localhost:3000/projects"
                 }
             ],
             "tags" : [
