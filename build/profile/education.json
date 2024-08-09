@@ -1,0 +1,40 @@
+{
+    "education":[
+        {
+            "title": "Jun 2016 - Jun 2018",
+            "cardTitle": "Master of Computer Application(MCA), Computer Science",
+            "cardSubtitle":"Gujarat Technological University, Ahmedabad",
+            "cardDetailedText": "CGPA - 7.4",
+            "icon" : {
+                "src": "images/education/edu.png"
+            }
+        },
+        {
+            "title": "Jun 2013 - Jun 2016",
+            "cardTitle": "Bechler of Computer Application(BCA), Computer Science",
+            "cardSubtitle":"Maharaja Krishnakumarsinhji Bhavnagar University, Bhavnagar",
+            "cardDetailedText": "Percentage - 49.42%",
+            "icon" : {
+                "src": "images/education/edu.png"
+            }
+        },
+        {
+            "title": "Jun 2011 - Jun 2013",
+            "cardTitle": "12th - Board",
+            "cardSubtitle":"GSEB, Gandhinagar, Gujrat",
+            "cardDetailedText": "Percentage - 63.57%",
+            "icon" : {
+                "src": "images/education/edu.png"
+            }
+        },
+        {
+            "title": "Jun 2013 - Jun 2016",
+            "cardTitle": "10th - Board",
+            "cardSubtitle":"GSEB, Gandhinagar, Gujrat",
+            "cardDetailedText": "Percentage - 57.08%",
+            "icon" : {
+                "src": "images/education/edu.png"
+            }
+        }
+    ]
+}

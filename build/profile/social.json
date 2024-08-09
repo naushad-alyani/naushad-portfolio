@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "hhttps://in.linkedin.com/in/naushad-alyani-28140114b"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:test@test.com"
+        }
+    ]
+}
