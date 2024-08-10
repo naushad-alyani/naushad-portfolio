@@ -2,15 +2,19 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "hhttps://in.linkedin.com/in/naushad-alyani-28140114b"
+            "href": "https://in.linkedin.com/in/naushad-alyani-28140114b"
         },
         {
             "network" : "github",
-            "href": "https://github.com"
+            "href": "https://github.com/naushad-alyani/"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "mailto:naushadalyani@gmail.com"
+        },
+        {
+            "network" : "twitter",
+            "href": "https://twitter.com/your_twitter_handle"
         }
     ]
 }

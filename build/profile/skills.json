@@ -6,57 +6,78 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
                 },
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "icon": "images/skills/c.png",
+                    "title": "C"
+                },
+                {
+                    "icon": "images/skills/c++.png",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
                 },
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/sql.png",
+                    "title": "SQL"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/laravel.png",
+                    "title": "Laravel"
+                },
+                {
+                    "icon": "images/skills/ci.png",
+                    "title": "codeigniter"
+                },
+                {
+                    "icon": "images/skills/wordpress.png",
+                    "title": "Wordpress"
+                },
+                {
+                    "icon": "images/skills/shopify.png",
+                    "title": "shopify"
+                },
+                {
+                    "icon": "images/skills/wix.png",
+                    "title": "wix"
                 },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
-                },
-                {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
                 }
+                
             ]
         },
         {
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/github.png",
+                    "title": "Git-Hub"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
-                },
-                {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
                 }
             ]
     }

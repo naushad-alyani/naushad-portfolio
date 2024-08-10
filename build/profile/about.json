@@ -1,5 +1,20 @@
 {
-    "about": " This is where you can describe about **yourself**. The more you describe about yourself, the better it is!\n\n\nExtra Information about you, like hobbies and your goals.\nExample Paragraph: I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs.",
+    "about": "I am a passionate Senior Software Engineer with over 5 years of experience in building high-quality web applications. I specialize in using a variety of content management systems (CMS) and frameworks, including Laravel, CodeIgniter (CI), WordPress, Wix, Shopify, and ReactJS. My expertise lies in solving complex problems and creating scalable and efficient applications tailored to meet the needs of diverse clients. I enjoy leveraging my skills to deliver top-notch solutions and continuously strive to stay updated with the latest industry trends and technologies.",
+    "technicalSkills": [
+        "CMS & Frameworks: Laravel, CodeIgniter (CI), WordPress, Wix, Shopify",
+        "Front-end: ReactJS",
+        "Languages: PHP, JavaScript",
+        "Database Management: MySQL, PostgreSQL",
+        "Version Control: Git",
+        "Project Management: Agile methodologies, Scrum"
+    ],
+    "experienceHighlights": [
+        "Developed robust and scalable web applications using Laravel and ReactJS",
+        "Customized and maintained e-commerce sites on Shopify",
+        "Built dynamic websites with WordPress and Wix",
+        "Implemented complex functionalities and integrations in various CMS platforms",
+        "Collaborated with cross-functional teams to deliver projects on time and within budget"
+    ],
+    "passionAndGoals": "I am committed to continuous learning and growth in the field of web development. My goal is to keep enhancing my skills and contributing to innovative projects that make a difference. I thrive on challenges and look forward to opportunities that push my limits and allow me to make a meaningful impact through technology.",
     "imageSource": "images/about/profile.png"
-    
 }
