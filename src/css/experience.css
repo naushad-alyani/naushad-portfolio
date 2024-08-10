@@ -7,3 +7,14 @@
         margin-top: 10px !important;
     }
 }
+.timeline--wrapper {
+    padding: 12px;
+    width: calc(100% - -264px);
+}
+.timeline {
+    margin: 50px auto;
+    max-width: 900px;
+    padding: 15px 0 0;
+    position: relative;
+    width: 100%;
+}
