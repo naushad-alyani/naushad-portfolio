@@ -11,7 +11,7 @@
                 },
                 {
                     "text": "Live",
-                    "href": "http://localhost:3000/projects"
+                    "href": "https://naushad-alyani-portfolio.netlify.app/"
                 }
             ],
             "tags" : [
@@ -21,80 +21,85 @@
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/vms.png",
+            "title": "Visitor Management System",
+            "bodyText": "- A Visitor Management System (VMS) is a software application designed to manage and track visitors to a particular location or facility.\n - Its primary purpose is to enhance security, streamline the visitor check-in process, and maintain a digital record of visitor information for future reference. Here are some key features and functionalities typically found in a Visitor Management System:",
             "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://vms.hindustangold.com/"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
+                "Laravel",
+                "Mysql",
                 "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Html",
+                "CSss",
+                "JavaScript",
+                "Jquery"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/tswbid.png",
+            "title": "TSW BID",
+            "bodyText": "- At TSW.BID we buy returned and overstocked goods from top retailers and sell them in online auctions.\n - All auctions start at just $1. We have over 40,000 winners each day.\n - Did you win?\n - Pick up items at one of our 20+ locations.\n - TSW BID Web App using with multiple platform hendel product wordpres,laravel and shopify",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "text": "Live",
+                    "href": "https://tswbid.com/"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "Laravel",
+                "Shopify",
+                "WordPress",
+                "Mysql",
+                "BootStrap",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "image" : "images/projects/google-shopping-feed.png",
+            "title": "Simprosys Google Shopping Feed",
+            "bodyText" : "- Simprosys Google Shopping Feed is Submits Feed for Google Shopping, Microsoft, Facebook & Pinterest.\n - Manages Shopping Campaigns / PMax The app supports product feed submission for Google Shopping, Free Listings on Google, Facebook Shop, Checkout on Facebook, FB Dynamic Product Ads, Instagram Shop, Google Local Inventory Ads, Pinterest Ads, and Microsoft Shopping Ads.\n - You can easily create & manage Google Ads Performance Max (PMax) Campaigns and Microsoft Ads Smart Shopping Campaigns, with an option to set up conversion tracking & dynamic remarketing tagging to measure campaign performance.\n - Google Analytics 4 (GA4)Tracking Setup",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "text": "Live",
+                    "href": "https://apps.shopify.com/google-shopping-feed"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "Core PHP",
+                "Mysql",
+                "Shopify",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
             ]
         },
         {
-            "title": "MVVM Sample App",
+            "image" : "images/projects/google-shopping-wix.png",
+            "title": "Google Shopping by Simprosys",
             "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
             "links": [
                 {
-                    "text": "GitHub",
+                    "text": "Live",
                     "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
+                "Core PHP",
+                "Mysql",
+                "Wix",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
             ]
         },
         {
