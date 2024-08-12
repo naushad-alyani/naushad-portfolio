@@ -11,7 +11,7 @@
                 },
                 {
                     "text": "Live",
-                    "href": "http://localhost:3000/projects"
+                    "href": "https://naushad-alyani-portfolio.netlify.app/"
                 }
             ],
             "tags" : [
@@ -21,129 +21,224 @@
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/vms.png",
+            "title": "Visitor Management System",
+            "bodyText": "- A Visitor Management System (VMS) is a software application designed to manage and track visitors to a particular location or facility.\n - Its primary purpose is to enhance security, streamline the visitor check-in process, and maintain a digital record of visitor information for future reference. Here are some key features and functionalities typically found in a Visitor Management System:",
             "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://vms.hindustangold.com/"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
+                "Laravel",
+                "Mysql",
                 "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Html",
+                "CSss",
+                "JavaScript",
+                "Jquery"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/tswbid.png",
+            "title": "TSW BID",
+            "bodyText": "- At TSW.BID we buy returned and overstocked goods from top retailers and sell them in online auctions.\n - All auctions start at just $1. We have over 40,000 winners each day.\n - Did you win?\n - Pick up items at one of our 20+ locations.\n - TSW BID Web App using with multiple platform hendel product wordpres,laravel and shopify",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "text": "Live",
+                    "href": "https://tswbid.com/"
                 }
             ],
             "tags" : [
-                "Java",
+                "Laravel",
+                "Shopify",
+                "WordPress",
+                "Mysql",
+                "BootStrap",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
+            ]
+        },
+        {
+            "image" : "images/projects/google-shopping-feed.png",
+            "title": "Simprosys Google Shopping Feed",
+            "bodyText" : "- Simprosys Google Shopping Feed is Submits Feed for Google Shopping, Microsoft, Facebook & Pinterest.\n - Manages Shopping Campaigns / PMax The app supports product feed submission for Google Shopping, Free Listings on Google, Facebook Shop, Checkout on Facebook, FB Dynamic Product Ads, Instagram Shop, Google Local Inventory Ads, Pinterest Ads, and Microsoft Shopping Ads.\n - You can easily create & manage Google Ads Performance Max (PMax) Campaigns and Microsoft Ads Smart Shopping Campaigns, with an option to set up conversion tracking & dynamic remarketing tagging to measure campaign performance.\n - Google Analytics 4 (GA4)Tracking Setup",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://apps.shopify.com/google-shopping-feed"
+                }
+            ],
+            "tags" : [
+                "Core PHP",
+                "Mysql",
+                "Shopify",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
+            ]
+        },
+        {
+            "image" : "images/projects/google-shopping-wix.png",
+            "title": "Google Shopping by Simprosys",
+            "bodyText": "- Syncs product feed to Google Shopping, Microsoft Ads and Facebook in Realtime Easily Customise Attributes with Robust Filtering,\n - Bulk Editing Options and Automated Rules which helps Boost your Shopping ads Increase\n - your visibility in Google Shopping ads by Creating Performance Max campaign within a few clicks\n - Create Promotions Feed for Google Shopping Ads and Microsoft Ads Product feed submission to Google Shopping, Microsoft(Bing Shopping) Ads, and Facebook using Content API",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://www.wix.com/app-market/simprosys-google-shopping-feed"
+                }
+            ],
+            "tags" : [
+                "Core PHP",
+                "Mysql",
+                "Wix",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
+            ]
+        },
+        {
+            "image" : "images/projects/shopping-feed-for-google-wp.png",
+            "title": "API Feed for Google Shopping, Microsoft and Facebook",
+            "bodyText": "- We have implemented Simprosys Google Shopping Feed Web App\n - Project in Core PHP, MySQL , jQuery and WooCommerce.\n - Effortlessly reach millions of potential customers on Google Shopping, Microsoft Shopping, and Facebook with our plugin.\n - In just 30 minutes, you can advertise your products to a vast audience.\n - Add products to your WooCommerce store and let our plugin handle the rest through automated API feed submissions.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://simprosys.com/woocommerce-shopping-feed-for-google"
+                }
+            ],
+            "tags" : [
+                "Core PHP",
+                "Mysql",
+                "WooCommerce",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
+            ]
+        },
+        {
+            "image" : "images/projects/gesa.png",
+            "title": "SMPS Buy on Google Order Sync",
+            "bodyText": "- This app helps you manage & sync Buy on Google orders with your online store.\n - It streamlines the 'Buy on Google' order syncing process by sharing\n - order fulfillment status with Google Merchant Center.\n - It simplifies order return & refund management.\n - It automatically updates inventory when a product is purchased or returned.\n - It will automatically tag customers who make purchases through Buy on Google which allows you to customize Shopify reports like tax calculation & channel-based sales analysis.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://gesa.simpshopifyapps.com/public/"
+                }
+            ],
+            "tags" : [
+                "Laravel",
+                "Mysql",
+                "Shopify",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
+            ]
+        },
+        {
+            "image" : "images/projects/smp.png",
+            "title": "Show My Parking - SMP",
+            "bodyText": "- We have implemented Show My Parking App Project in Laravel , MySQL , jQuery and Android/IOS.\n - Show My Parking is an Award Winning Smart Parking Application where\n - the consumer can conveniently search, book and park their vehicle for a specific time and venue with a few clicks of fingertips.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://play.google.com/store/apps/details/?id=com.showmyparking"
+                }
+            ],
+            "tags" : [
+                "Laravel",
+                "Mysql",
                 "Android",
-                "Alarm Manager",
-                "VIT"
+                "IOS",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "image" : "images/projects/chocolate-radio.png",
+            "title": "Chocolate radio music app",
+            "bodyText": "- We have implemented Chocolate radio music app App Project in Laravel ,MySQL, jQuery and Android/IOS.\n - Chocolate Radio 2.0 created his very own app so you can hear the hottest music on the go!\n - The official app of Chocolate Radio 2.0 will keep you on the loop of all the hottest\n - singles, - mixtapes, re-mixes, exclusve artist videos and more.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "text": "Live",
+                    "href": "https://apps.apple.com/us/app/chocolate-radio/id1183337866"
                 }
             ],
             "tags" : [
-                "Java",
+                "Laravel",
+                "Mysql",
                 "Android",
-                "Firebase",
-                "RSA"
+                "IOS",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "title": "Administration Management System",
+            "bodyText": " - i have developed a Administration Management System is a Modern and responsive Aahana Management System.\n - It is developed by PHP and Laravel frameworks.\n - It is designed and developed for office management and company employee management.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "text": "Live",
+                    "href": "https://apps.apple.com/us/app/chocolate-radio/id1183337866"
                 }
             ],
             "tags" : [
-                "Kotlin",
+                "Laravel",
+                "Mysql",
                 "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
+                "IOS",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
             ]
         },
         {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "title": "Google Ads Reporting",
+            "bodyText" : "- We have implemented Google Ads Reporting Web App Project in Laravel , MySQL , jQuery and Shopify.\n - Manage your products and campaings and one click\n - can create campaign, adgroup, Text ads, keywords using your products\n - atutomattclly",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                    "text": "Live"
                 }
             ],
             "tags" : [
-                "Kotlin",
+                "Laravel",
+                "Mysql",
+                "Shopify",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
+            ]
+        },
+        {
+            "title": "Aahana Management System",
+            "bodyText": " - i have developed a Aahana Management System is a Modern and responsive Aahana Management System.\n - It is developed by PHP and Laravel frameworks.\n - It is designed and developed for office management\n - and company employee management.",
+            "links": [
+                {
+                    "text": "Live"
+                }
+            ],
+            "tags" : [
+                "Laravel",
+                "Mysql",
                 "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "IOS",
+                "Html",
+                "Css",
+                "JavaScript",
+                "Jquery"
             ]
         }
     ]
